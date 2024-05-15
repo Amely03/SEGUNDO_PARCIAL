@@ -18,6 +18,6 @@ INSERT INTO  avisos (nombres,apellidos,seminarios,confirmado,fecha_inscripcion)
 VALUES('Zoyla','Vaca','Criptografia',0,'2024-05-07');
 
 INSERT INTO estudiantes (nombre,apellido,seminario,confirmado,fecha)
-VALUES('Melody','Tapia','Taller de Ensamblaje',1,'2024-05-10');
+VALUES('Karen Melody','Tapia Ramos','Python con MySQL',1,'2024-05-07');
 
 SELECT * FROM estudiantes
